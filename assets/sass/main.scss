@@ -1,6 +1,7 @@
 @import url( 'https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700');
 @import "reset";
 @import "variables";
+@import "content-area";
 
 * {
   box-sizing: border-box;
@@ -84,7 +85,7 @@ header {
       padding: 10px;
       font-weight: 100;
       width: 80%;
-      transition: all .5 ease-in-out;
+      transition: all .5s ease-in-out;
 
       &:hover {
         background: $greyLight;
