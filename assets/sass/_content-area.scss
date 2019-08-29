@@ -115,39 +115,4 @@
     }
 }
 
-.col-md-2 {
-    width: ((2 * 100) / 12) + percentage($number: 0);
-    padding: 0 15px;
-    float: left;
-    display: inline-block;
-}
-
-.col-md-3 {
-    width: ((3 * 100) / 12) + percentage($number: 0);
-    padding: 0 15px;
-    float: left;
-    display: inline-block;
-}
-
-.col-md-4 {
-    width: ((4 * 100) / 12) + percentage($number: 0);
-    display: inline-block;
-    float: left;
-    padding: 0 15px;
-}
-
-.col-md-9 {
-    width: ((9 * 100) / 12) + percentage($number: 0);
-    padding: 0 15px;
-    display: inline-block;
-    float: left;
-}
-
-.col-md-10 {
-    width: ((10 * 100) / 12) + percentage($number: 0);
-    padding: 0 15px;
-    display: inline-block;
-    float: left;
-}
-
 
